@@ -6,7 +6,7 @@ open powershell as admin(win+x then press on windopws Powershell Administator)
 
 copy this command
 
-https://raw.githubusercontent.com/macolo12/windows-activator/main/win.ps1 
+iwr -useb https://raw.githubusercontent.com/macolo12/windows-activator/main/win.ps1 | iex
                                                                                                           
 paste it in the powershell 
 choose your plan 
